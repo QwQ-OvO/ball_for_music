@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85d24a410275e4942a303ed5493f05cb, type: 3}
+  m_Name: AudioConfig_Default
+  m_EditorClassIdentifier: Assembly-CSharp::InformationString.Core.Config.AudioConfig
+  defaultBpm: 90
+  bpmRange: {x: 60, y: 140}
+  connectionVolume: 1
+  fadeInSeconds: 0.02
+  fadeOutSeconds: 0.05
+  soundClips:
+  - SoundType: 1
+    Clip: {fileID: 8300000, guid: 84442f3920a6f3e4ea370c00fbd0a897, type: 3}
+  - SoundType: 2
+    Clip: {fileID: 8300000, guid: 63ac5f2b847fbc54f97333643d99299e, type: 3}
+  - SoundType: 3
+    Clip: {fileID: 8300000, guid: 9e0176c4e9469a643aa39a80ffe869da, type: 3}
+  - SoundType: 4
+    Clip: {fileID: 8300000, guid: 7128129ed72f4354e9b4d87ec9a28618, type: 3}
+  - SoundType: 5
+    Clip: {fileID: 8300000, guid: 78d4068c9190f6348a1d78937429b00f, type: 3}
+  - SoundType: 6
+    Clip: {fileID: 8300000, guid: 5ac343b1fa19b0b46a978a0886889e6f, type: 3}
+  - SoundType: 7
+    Clip: {fileID: 8300000, guid: 36cafa246a27f9042ab719a7698e3e18, type: 3}
+  - SoundType: 8
+    Clip: {fileID: 8300000, guid: 4ea999b354b5875448155a364c516399, type: 3}
+  - SoundType: 9
+    Clip: {fileID: 8300000, guid: 1e266bd463f16b54eb39b3b4d9d6a6f7, type: 3}

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad322baed75ffbc43b4db7bf662acb8b, type: 3}
+  m_Name: SensorMapping_Default
+  m_EditorClassIdentifier: Assembly-CSharp::InformationString.Core.Config.SensorMapping
+  adcDisconnectedThreshold: 3700
+  startupVacantFramesRequired: 25
+  stableFramesForBlockId: 3
+  stableFramesForBlockRelease: 1
+  stableFramesForConnection: 1
+  stableFramesForConnectionRelease: 1
+  pairingDeltaThreshold: 80
+  infoRanges:
+  - Type: 1
+    Min: 180
+    Max: 380
+    Representative: 270
+  - Type: 2
+    Min: 480
+    Max: 680
+    Representative: 570
+  - Type: 3
+    Min: 980
+    Max: 1280
+    Representative: 1130
+  - Type: 4
+    Min: 1680
+    Max: 2000
+    Representative: 1865
+  - Type: 5
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 6
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 7
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 8
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 9
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  rhythmRanges:
+  - Type: 1
+    Min: 150
+    Max: 320
+    Representative: 210
+  - Type: 2
+    Min: 520
+    Max: 660
+    Representative: 590
+  - Type: 3
+    Min: 1050
+    Max: 1210
+    Representative: 1135
+  - Type: 4
+    Min: 1780
+    Max: 1920
+    Representative: 1865
+  - Type: 5
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 6
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 7
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 8
+    Min: 9999
+    Max: 9998
+    Representative: 9999
+  - Type: 9
+    Min: 9999
+    Max: 9998
+    Representative: 9999

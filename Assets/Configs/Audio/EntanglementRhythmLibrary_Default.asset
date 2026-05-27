@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f4f1ba3b00ec540a7a10559c1774dc, type: 3}
+  m_Name: EntanglementRhythmLibrary_Default
+  m_EditorClassIdentifier: Assembly-CSharp::InformationString.Core.Config.EntanglementRhythmLibrary
+  entries:
+  - GroupSize: 2
+    Config:
+      SongName: We Will Rock You
+      BeatsPerBar: 4
+      SubdivisionsPerBeat: 4
+      TargetBPM: 81
+      MemberAssignment: 00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  - GroupSize: 3
+    Config:
+      SongName: Seven Nation Army
+      BeatsPerBar: 4
+      SubdivisionsPerBeat: 4
+      TargetBPM: 124
+      MemberAssignment: 00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff02000000ffffffff01000000ffffffff
+  - GroupSize: 4
+    Config:
+      SongName: Billie Jean
+      BeatsPerBar: 4
+      SubdivisionsPerBeat: 4
+      TargetBPM: 117
+      MemberAssignment: 00000000ffffffff02000000ffffffff01000000ffffffff03000000ffffffff00000000ffffffff02000000ffffffff01000000ffffffff03000000ffffffff
+  - GroupSize: 5
+    Config:
+      SongName: Take Five
+      BeatsPerBar: 5
+      SubdivisionsPerBeat: 4
+      TargetBPM: 176
+      MemberAssignment: 00000000ffffffff01000000ffffffff02000000ffffffff03000000ffffffff04000000ffffffff00000000ffffffff01000000ffffffff02000000ffffffff03000000ffffffffffffffff04000000
+  - GroupSize: 6
+    Config:
+      SongName: Mission Impossible
+      BeatsPerBar: 5
+      SubdivisionsPerBeat: 4
+      TargetBPM: 140
+      MemberAssignment: 00000000ffffffff0100000002000000ffffffff0300000004000000ffffffff0500000000000000ffffffff0100000002000000ffffffff0300000004000000ffffffff05000000ffffffffffffffff
+  - GroupSize: 7
+    Config:
+      SongName: Money
+      BeatsPerBar: 7
+      SubdivisionsPerBeat: 4
+      TargetBPM: 120
+      MemberAssignment: 00000000ffffffffffffffffffffffff02000000ffffffff03000000ffffffff04000000ffffffff05000000ffffffff06000000ffffffff00000000ffffffff01000000ffffffff02000000ffffffff0300000004000000ffffffff0500000006000000ffffffffffffffffffffffff
+  - GroupSize: 8
+    Config:
+      SongName: 'Stayin Alive '
+      BeatsPerBar: 4
+      SubdivisionsPerBeat: 4
+      TargetBPM: 104
+      MemberAssignment: 00000000010000000200000003000000040000000500000006000000070000000000000001000000020000000300000004000000050000000600000007000000
+  - GroupSize: 9
+    Config:
+      SongName: Blue Rondo a la Turk
+      BeatsPerBar: 9
+      SubdivisionsPerBeat: 2
+      TargetBPM: 168
+      MemberAssignment: 00000000ffffffffffffffffffffffff02000000ffffffff030000000400000005000000ffffffff06000000ffffffff07000000ffffffff080000000000000001000000ffffffff
